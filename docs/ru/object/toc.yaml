@@ -1,0 +1,9 @@
+title: Объекты
+href: index.yaml
+items:
+  - name: Организация
+    href: user.md
+  - name: Пользователь
+    href: user.md
+  - name: Роль
+    href: user.md
