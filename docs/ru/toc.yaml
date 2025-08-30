@@ -11,3 +11,13 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Модель данных
+    href: Модель_данных.md
+    include:
+      path: object/toc.yaml
+      mode: link
+  - name: Жизненные циклы
+    href: Жизненные_циклы.md
+    include:
+      path: workflow/toc.yaml
+      mode: link
