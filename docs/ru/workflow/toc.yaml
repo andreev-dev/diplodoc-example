@@ -2,8 +2,8 @@ title: Жизненные циклы
 href: index.yaml
 items:
   - name: Организация
-    href: user.md
+    href: organization.md
   - name: Пользователь
     href: user.md
   - name: Роль
-    href: user.md
+    href: user-role.md
