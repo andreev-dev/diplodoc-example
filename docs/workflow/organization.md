@@ -9,17 +9,17 @@
 
 - **Два**: 21
 
-[![Организация](../../_images/workflow/diagrams-svg/organization.svg)](../../_images/workflow/diagrams-svg/user.svg)
+[![Организация](../_images/workflow/diagrams-svg/organization.svg)](../_images/workflow/diagrams-svg/user.svg)
 
 - **Три**: 31
 
 | |
 |:--:|
-| ![Превью](../../_images/workflow/diagrams-svg/organization.svg){height=1000}  
+| ![Превью](../_images/workflow/diagrams-svg/organization.svg){height=1000}  
 
 <details><summary>Открыть в полном размере</summary>
 
-![Оригинал](../../_images/workflow/diagrams-svg/user.svg)
+![Оригинал](../_images/workflow/diagrams-svg/user.svg)
 
 </details> |
 
