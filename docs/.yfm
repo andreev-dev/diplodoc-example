@@ -4,3 +4,4 @@ docs-viewer:
   langs: ['ru']
 
 allowHTML: true
+needToSanitizeHtml: false
