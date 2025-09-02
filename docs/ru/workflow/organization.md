@@ -7,19 +7,19 @@
 
 ## 2. Диаграмма состояний
 
-- **Два**: 2
+- **Два**: 21
 
-![Организация](../../_images/workflow/diagrams-svg/organization.svg){height=400}
+[![Организация](../../_images/workflow/diagrams-svg/organization.svg)](../../_images/workflow/diagrams-svg/user.svg)
 
-- **Три**: 3
+- **Три**: 31
 
 | |
 |:--:|
-| ![Превью](../../_images/workflow/diagrams-svg/organization.svg){height=400}  
+| ![Превью](../../_images/workflow/diagrams-svg/organization.svg){height=1000}  
 
 <details><summary>Открыть в полном размере</summary>
 
-![Оригинал](../../_images/workflow/diagrams-svg/organization.svg)
+![Оригинал](../../_images/workflow/diagrams-svg/user.svg)
 
 </details> |
 
