@@ -7,11 +7,12 @@
 
 ## 2. Диаграмма состояний
 
-<div style="text-align: center;">
-<a href="../../_images/workflow/diagrams-svg/organization.svg" target="_blank">
-<img src="../../_images/workflow/diagrams-svg/organization.svg" alt="organization" style="max-height: 300px; cursor: pointer;" title="Кликните для увеличения">
-</a>
-</div>
+<p align="center">
+  <a href="../../_images/workflow/diagrams-svg/organization.svg" target="_blank">
+    <img src="../../_images/workflow/diagrams-svg/organization.svg"
+         alt="organization" title="Кликните для увеличения" width="600" loading="lazy">
+  </a>
+</p>
 
 [![Организация](../../_images/workflow/diagrams-svg/organization.svg)](../../_images/workflow/diagrams-svg/organization.svg)
 
