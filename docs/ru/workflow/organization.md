@@ -17,6 +17,11 @@
 [![Организация](../../_images/workflow/diagrams-svg/organization.svg)](../../_images/workflow/diagrams-svg/organization.svg)
 
 
+| |
+|:--:|
+| ![Организация](../../_images/workflow/diagrams-svg/organization.svg){width=600} |
+
+
 ## 3. Состояния
 
 | Наименование | Код | Описание | Доступные действия |
