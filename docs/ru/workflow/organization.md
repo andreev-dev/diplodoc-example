@@ -13,6 +13,9 @@
 </a>
 </div>
 
+[![Организация](../../_images/workflow/diagrams-svg/organization.svg)](../../_images/workflow/diagrams-svg/organization.svg)
+
+
 ## 3. Состояния
 
 | Наименование | Код | Описание | Доступные действия |
