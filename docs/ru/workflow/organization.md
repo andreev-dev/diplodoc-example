@@ -7,14 +7,6 @@
 
 ## 2. Диаграмма состояний
 
-- **Один**: 1
-<p align="center">
-  <a href="../../_images/workflow/diagrams-svg/organization.svg" target="_blank">
-    <img src="../../_images/workflow/diagrams-svg/organization.svg"
-         alt="organization" title="Кликните для увеличения" width="600" loading="lazy">
-  </a>
-</p>
-
 - **Два**: 2
 
 ![Организация](../../_images/workflow/diagrams-svg/organization.svg){height=400}
@@ -23,7 +15,7 @@
 
 | |
 |:--:|
-| ![Превью](../../_images/workflow/diagrams-svg/organization.svg){width=600}  
+| ![Превью](../../_images/workflow/diagrams-svg/organization.svg){height=400}  
 
 <details><summary>Открыть в полном размере</summary>
 
