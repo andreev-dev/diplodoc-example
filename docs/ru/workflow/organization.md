@@ -17,7 +17,7 @@
 
 - **Два**: 2
 
-[![Организация](../../_images/workflow/diagrams-svg/organization.svg)](../../_images/workflow/diagrams-svg/organization.svg)
+![Организация](../../_images/workflow/diagrams-svg/organization.svg){height=400}
 
 - **Три**: 3
 
